@@ -1,12 +1,8 @@
 spring:
   data:
     mongodb:
+      uri: mongodb://rootuser:rootpass@localhost:27017/user_storage?authSource=admin
       authentication-database: admin
-      username: rootuser
-      password: rootpass
-      database: user_storage
-      host: localhost
-      port: 27017
       auto-index-creation: true
   application:
     name: user
