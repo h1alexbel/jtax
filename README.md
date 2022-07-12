@@ -4,3 +4,6 @@
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](https://github.com/h1alexbel/jtax/blob/main/LICENSE)
 <br><br><br>
 **Authors**: Aliaksei Bialiauski
+
+
+Experimental, Community driven, taxi ordering service, driven by cloud and microservice architecture best practices
