@@ -6,7 +6,6 @@ plugins {
 
 group = 'com.jtax.dashboard'
 version = '0.0.1-RELEASE'
-sourceCompatibility = '17'
 
 repositories {
     mavenCentral()
