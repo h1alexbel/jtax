@@ -1,0 +1,11 @@
+rootProject.name = 'jtax-dependencies'
+
+include 'registry'
+include 'api-gateway'
+include 'config-server'
+include 'hystrix-dashboard'
+include 'user'
+include 'order'
+include 'car'
+include 'driver'
+include 'accounting'
